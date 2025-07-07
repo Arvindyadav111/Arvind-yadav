@@ -1,5 +1,5 @@
 <h1 align="center"><b><big>Hi 👋, I'm Arvind Yadav</big></b></h1>
-<h3 align="center">A passionate [Your Role, e.g., Full Stack Developer / Student / Open Source Enthusiast] from India</h3>
+<h3 align="center">A passionate java devloper / Student / Open Source Enthusiast] from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arvindyadav111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,16 +8,14 @@
 ---
 
 ### 🔭 I’m currently working on:
-- [Mention Your Projects]
-- Learning [Mention Tech or Skill, e.g., React, DSA]
+# learing java 
 
 ---
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/arvind-ydv1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>>
+  <a href="mailto:ahirarvindkr1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
